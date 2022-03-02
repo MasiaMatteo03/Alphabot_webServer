@@ -1,5 +1,5 @@
 # Alphabot_webServer
-### General description of the project
+## General description of the project
 
 This is our second project with the alphabot.
 It is a web-app written in python using Flask and a database (SQLite) where we save some information (for example who did a move).
