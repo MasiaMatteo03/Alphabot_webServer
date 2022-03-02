@@ -2,7 +2,7 @@
 ## General description of the project
 
 This is our second project with the alphabot.  
-It is a web-app written in python using Flask and a database (SQLite) where we save some information (for example who did a move).
+It is a web-app written in python using Flask and a database (SQLite) where we save some data (for example who did a move).
 
 ## HTML pages
 There are two HTML pages: the first used for the login and then the page with all the commands to make the Alphabot move.  
@@ -10,6 +10,6 @@ There are two HTML pages: the first used for the login and then the page with al
 - The second page contains some buttons with the elementals moves (forward, backward, left and right) and a space where you can enter a complex command that will be executed by the alphabot (this is also saved on the database).
 
 ## Cookies
-We use cookies to save the username of the user who made the alphabot move and then save the username, time and move made in the database.  
+To save in a history the username, time and move made (on our database) we decided to use cookies.
 
 By Masia Matteo & Fenoglio Cristian
